@@ -1,0 +1,15 @@
+{
+    "coordinatesReferenceSystem": "CRS84",	
+    "Projects" : [      
+        { "id" : 0, "title" : "LuhuryHighriseExtraElite", "coordinates" : [37.612288, 55.729553], "grade" : "premium", "totalCost" : "2300000000", "flatsCount" : 10 },
+        { "id" : 1, "title" : "DilapidatedSlums", "coordinates" : [37.074273, 55.609735], "grade" : "economy", "totalCost" : "23000000", "flatsCount" : 20 },
+        { "id" : 2, "title" : "FlatsForFriends", "coordinates" : [38.309546, 55.924072], "grade" : "comfort", "totalCost" : "120000000", "flatsCount" : 15 },
+        { "id" : 3, "title" : "NormiesUnited", "coordinates" : [37.984807, 56.159489], "grade" : "comfort", "totalCost" : "500000000", "flatsCount" : 100 },
+        { "id" : 4, "title" : "Elysium", "coordinates" : [36.384420, 56.034700], "grade" : "premium", "totalCost" : "900000000", "flatsCount" : 8 },
+        { "id" : 5, "title" : "LesMiserables", "coordinates" : [37.385860, 55.476837], "grade" : "economy", "totalCost" : "10000000", "flatsCount" : 18 },
+        { "id" : 6, "title" : "GatesOfHeaven", "coordinates" : [38.233450, 55.389879], "grade" : "premium", "totalCost" : "950000000", "flatsCount" : 4 },
+        { "id" : 7, "title" : "Purgatory", "coordinates" : [37.472543, 55.429876], "grade" : "comfort", "totalCost" : "50000000", "flatsCount" : 10 },
+        { "id" : 8, "title" : "EverythingGoesAccordingToThePlan", "coordinates" : [37.017931, 56.167402], "grade" : "comfort", "totalCost" : "90000000", "flatsCount" : 25 },
+        { "id" : 9, "title" : "Messlife", "coordinates" : [36.872402, 55.434779], "grade" : "economy", "totalCost" : "150000000", "flatsCount" : 50 }
+    ]
+}

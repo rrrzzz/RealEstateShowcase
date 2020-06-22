@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nekko\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\nekko\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_RealEstateShowcase.941425146.00" t="ExcludeRecursive" />
+    <e p="C:\Users\nekko\AppData\Roaming\JetBrains\Rider2020.1\consoles\ide" t="IncludeRecursive" />
+    <e p="Z:\RealEstateShowcase" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="ApplicationManager.cs" t="Include" />
+          <e p="CameraOrbiter.cs" t="Include" />
+          <e p="Controllers" t="Include">
+            <e p="ComfortProjectsController.cs" t="Include" />
+            <e p="EconomyProjectsController.cs" t="Include" />
+            <e p="IProjectControllerFactory.cs" t="Include" />
+            <e p="IProjectsManager.cs" t="Include" />
+            <e p="IUiController.cs" t="Include" />
+            <e p="PremiumProjectsController.cs" t="Include" />
+            <e p="ProjectControllerFactory.cs" t="Include" />
+            <e p="ProjectsControllerBase.cs" t="Include" />
+            <e p="ProjectsManager.cs" t="Include" />
+            <e p="UiController.cs" t="Include" />
+          </e>
+          <e p="DataEntities" t="Include">
+            <e p="ApartmentProjectData.cs" t="Include" />
+            <e p="GeoJsonEntities" t="Include">
+              <e p="GeoCoordinate.cs" t="Include" />
+              <e p="GeoFeature.cs" t="Include" />
+              <e p="GeoPolygon.cs" t="Include" />
+            </e>
+            <e p="ProjectsData.cs" t="Include" />
+          </e>
+          <e p="EntitiesCreator.cs" t="Include" />
+          <e p="IEntitiesCreator.cs" t="Include" />
+          <e p="Libraries" t="Include">
+            <e p="TriangleNetUnity" t="Include">
+              <e p="Source" t="Include">
+                <e p="Behavior.cs" t="Include" />
+                <e p="Configuration.cs" t="Include" />
+                <e p="Enums.cs" t="Include" />
+                <e p="Geometry" t="Include">
+                  <e p="Contour.cs" t="Include" />
+                  <e p="Edge.cs" t="Include" />
+                  <e p="ExtensionMethods.cs" t="Include" />
+                  <e p="IEdge.cs" t="Include" />
+                  <e p="IPolygon.cs" t="Include" />
+                  <e p="ISegment.cs" t="Include" />
+                  <e p="ITriangle.cs" t="Include" />
+                  <e p="Point.cs" t="Include" />
+                  <e p="Polygon.cs" t="Include" />
+                  <e p="Rectangle.cs" t="Include" />
+                  <e p="RegionPointer.cs" t="Include" />
+                  <e p="Segment.cs" t="Include" />
+                  <e p="Vertex.cs" t="Include" />
+                </e>
+                <e p="IO" t="Include">
+                  <e p="DebugWriter.cs" t="Include" />
+                  <e p="FileProcessor.cs" t="Include" />
+                  <e p="IFileFormat.cs" t="Include" />
+                  <e p="IMeshFormat.cs" t="Include" />
+                  <e p="InputTriangle.cs" t="Include" />
+                  <e p="IPolygonFormat.cs" t="Include" />
+                  <e p="TriangleFormat.cs" t="Include" />
+                  <e p="TriangleReader.cs" t="Include" />
+                  <e p="TriangleWriter.cs" t="Include" />
+                </e>
+                <e p="IPredicates.cs" t="Include" />
+                <e p="Log.cs" t="Include" />
+                <e p="Logging" t="Include">
+                  <e p="ILog.cs" t="Include" />
+                  <e p="ILogItem.cs" t="Include" />
+                  <e p="LogItem.cs" t="Include" />
+                </e>
+                <e p="Meshing" t="Include">
+                  <e p="Algorithm" t="Include">
+                    <e p="Dwyer.cs" t="Include" />
+                    <e p="Incremental.cs" t="Include" />
+                    <e p="SweepLine.cs" t="Include" />
+                  </e>
+                  <e p="ConstraintMesher.cs" t="Include" />
+                  <e p="ConstraintOptions.cs" t="Include" />
+                  <e p="Converter.cs" t="Include" />
+                  <e p="Data" t="Include">
+                    <e p="BadSubseg.cs" t="Include" />
+                    <e p="BadTriangle.cs" t="Include" />
+                    <e p="BadTriQueue.cs" t="Include" />
+                  </e>
+                  <e p="GenericMesher.cs" t="Include" />
+                  <e p="IConstraintMesher.cs" t="Include" />
+                  <e p="IMesh.cs" t="Include" />
+                  <e p="IQualityMesher.cs" t="Include" />
+                  <e p="Iterators" t="Include">
+                    <e p="EdgeIterator.cs" t="Include" />
+                    <e p="RegionIterator.cs" t="Include" />
+                    <e p="VertexCirculator.cs" t="Include" />
+                  </e>
+                  <e p="ITriangulator.cs" t="Include" />
+                  <e p="QualityMesher.cs" t="Include" />
+                  <e p="QualityOptions.cs" t="Include" />
+                </e>
+                <e p="MeshValidator.cs" t="Include" />
+                <e p="NewLocation.cs" t="Include" />
+                <e p="RobustPredicates.cs" t="Include" />
+                <e p="Smoothing" t="Include">
+                  <e p="ISmoother.cs" t="Include" />
+                  <e p="SimpleSmoother.cs" t="Include" />
+                  <e p="VoronoiFactory.cs" t="Include" />
+                </e>
+                <e p="Tools" t="Include">
+                  <e p="AdjacencyMatrix.cs" t="Include" />
+                  <e p="CuthillMcKee.cs" t="Include" />
+                  <e p="Interpolation.cs" t="Include" />
+                  <e p="IntersectionHelper.cs" t="Include" />
+                  <e p="PolygonValidator.cs" t="Include" />
+                  <e p="QualityMeasure.cs" t="Include" />
+                  <e p="Statistic.cs" t="Include" />
+                  <e p="TriangleQuadTree.cs" t="Include" />
+                  <e p="VertexSorter.cs" t="Include" />
+                </e>
+                <e p="Topology" t="Include">
+                  <e p="DCEL" t="Include">
+                    <e p="DcelMesh.cs" t="Include" />
+                    <e p="Face.cs" t="Include" />
+                    <e p="HalfEdge.cs" t="Include" />
+                    <e p="Vertex.cs" t="Include" />
+                  </e>
+                  <e p="Osub.cs" t="Include" />
+                  <e p="Otri.cs" t="Include" />
+                  <e p="SubSegment.cs" t="Include" />
+                  <e p="Triangle.cs" t="Include" />
+                </e>
+                <e p="TriangleLocator.cs" t="Include" />
+                <e p="TriangleNetMesh.cs" t="Include" />
+                <e p="TrianglePool.cs" t="Include" />
+                <e p="TriangleSampler.cs" t="Include" />
+                <e p="Voronoi" t="Include">
+                  <e p="BoundedVoronoi.cs" t="Include" />
+                  <e p="DefaultVoronoiFactory.cs" t="Include" />
+                  <e p="IVoronoiFactory.cs" t="Include" />
+                  <e p="Legacy" t="Include">
+                    <e p="BoundedVoronoiLegacy.cs" t="Include" />
+                    <e p="IVoronoi.cs" t="Include" />
+                    <e p="SimpleVoronoi.cs" t="Include" />
+                    <e p="VoronoiRegion.cs" t="Include" />
+                  </e>
+                  <e p="StandardVoronoi.cs" t="Include" />
+                  <e p="VoronoiBase.cs" t="Include" />
+                </e>
+              </e>
+              <e p="UnityExtensions.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Models" t="Include">
+            <e p="MapModels" t="Include">
+              <e p="IMapModel.cs" t="Include" />
+              <e p="IMapModelGenerator.cs" t="Include" />
+              <e p="IMapZoneModel.cs" t="Include" />
+              <e p="MapBounds.cs" t="Include" />
+              <e p="MapInfo.cs" t="Include" />
+              <e p="MapModel.cs" t="Include" />
+              <e p="MapModelGenerator.cs" t="Include" />
+              <e p="MapZoneModel.cs" t="Include" />
+            </e>
+            <e p="ProjectModels" t="Include">
+              <e p="IProjectModel.cs" t="Include" />
+              <e p="IProjectModelsContainer.cs" t="Include" />
+              <e p="IProjectsModelGenerator.cs" t="Include" />
+              <e p="ProjectModel.cs" t="Include" />
+              <e p="ProjectModelsContainer.cs" t="Include" />
+              <e p="ProjectsInfo.cs" t="Include" />
+              <e p="ProjectsModelGenerator.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Utility" t="Include">
+            <e p="CoordinatesConverter.cs" t="Include" />
+            <e p="DataProviders" t="Include">
+              <e p="AssetsProvider.cs" t="Include" />
+              <e p="GeoJsonParser.cs" t="Include" />
+              <e p="IAssetProvider.cs" t="Include" />
+              <e p="IGeoJsonParser.cs" t="Include" />
+              <e p="JsonParser.cs" t="Include" />
+            </e>
+            <e p="ICoordinatesConverter.cs" t="Include" />
+            <e p="IMapScanner.cs" t="Include" />
+            <e p="IMeshGenerator.cs" t="Include" />
+            <e p="IOutlineDrawer.cs" t="Include" />
+            <e p="MapScanner.cs" t="Include" />
+            <e p="MeshGenerator.cs" t="Include" />
+            <e p="MonoBehaviourProvider.cs" t="Include" />
+            <e p="OutlineDrawer.cs" t="Include" />
+          </e>
+          <e p="Views" t="Include">
+            <e p="MapViews" t="Include">
+              <e p="IMapView.cs" t="Include" />
+              <e p="IMapViewGenerator.cs" t="Include" />
+              <e p="IMapZoneView.cs" t="Include" />
+              <e p="MapView.cs" t="Include" />
+              <e p="MapViewGenerator.cs" t="Include" />
+              <e p="MapZoneView.cs" t="Include" />
+            </e>
+            <e p="ProjectViews" t="Include">
+              <e p="IProjectView.cs" t="Include" />
+              <e p="IProjectViewManipulator.cs" t="Include" />
+              <e p="ProjectView.cs" t="Include" />
+              <e p="ProjectViewManipulator.cs" t="Include" />
+            </e>
+            <e p="UIViews" t="Include">
+              <e p="GradeToggleView.cs" t="Include" />
+              <e p="IGradeToggleView.cs" t="Include" />
+              <e p="IUiGenerator.cs" t="Include" />
+              <e p="UiGenerator.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Data" t="Include">
+            <e p="administrative.geojson.txt" t="Include" />
+            <e p="ApartmentProjects.txt" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="RealEstateShowcase.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
